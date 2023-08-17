@@ -1,0 +1,9 @@
+Algebra 10
+Geometry 8
+Trigonometry 6
+Mechanics 12
+Electricity 8
+Magnetism 6
+Organic 10
+Inorganic 8
+Physical 6
